@@ -10,6 +10,7 @@ description: Delta Design is a team exercise developed at M.I.T. by Prof. Louis 
   goals within the three or four hours required for learning and playing the game.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-00-introduction-to-aerospace-engineering-and-design-spring-2003/1df35514eb381e717f9e1cf25036d55e_intro.pdf
 file_type: application/pdf
+parent_uid: 5f8de6cd-9a73-e389-7b72-38cefdedbca6
 resourcetype: Document
 title: 'Delta Design Game '
 uid: 1df35514-eb38-1e71-7f9e-1cf25036d55e
